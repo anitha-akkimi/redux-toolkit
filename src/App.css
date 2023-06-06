@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  
+}
+
+.article-container {
+  border-radius: 10px;
+  border: 1px solid white;
+  padding: 10px;
+  margin: 10px;
+  width: 500px;
+}
+.input-title-style {
+  height: 38px;
+  width: 300px;
+  margin: 10px;
+}
+.text-style {
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.btn-style {
+  background-color: transparent;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid white;
+  color: white;
+  margin: 10px;
+}
+.select-style {
+  height: 30px;
+  width: 200px;
+}
+
+.post-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
